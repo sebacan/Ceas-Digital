@@ -1,0 +1,31 @@
+{
+  "name": "rfduino-led-onoff",
+  "version": "1.0",
+  "title": "RFduino LED On/Off",
+  "description": "Simple app to control the RFduino using BLE.",
+  "tags": [
+    {
+      "label": "arduino",
+      "type": "platform"
+    },
+    {
+      "label": "rfduino",
+      "type": "vendor"
+    },
+    {
+      "label": "ble",
+      "type": "comm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "index-file": "index.html",
+  "app-dir": "app",
+  "uuid": "991be28e-54b7-42d1-814c-4bdbe974980e",
+  "icon": "app-icon.png",
+  "doc-url": "https://evothings.com/2.1/doc/examples/rfduino-led-onoff.html"
+}
